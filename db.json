@@ -1,0 +1,108 @@
+{
+  "users": [
+    {
+      "email": "kenzinho@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Kenzinho",
+      "id": 1,
+      "city": "Curitiba",
+      "state": "Parana",
+      "background": "https://kenzie.com.br/eventos/thumb.png",
+      "image": "data:image/png;base64,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",
+    }
+  ],
+  "post": [
+    {
+      "id": 1,
+      "companyId": 3,
+      "name": "Carrefour",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "date": "Thu Feb 17 2022",
+      "time": "18:11:57 GMT-0300",
+      "city": "Curitiba",
+      "state": "Paraná"
+    },
+    {
+      "id": 2,
+      "companyId": 5,
+      "name": "Nuvem Feliz",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "date": "Wed Feb 20 2022",
+      "time": "18:09:57 GMT-0300",
+      "city": "Sao Luis",
+      "state": "Maranhao"
+    },
+    {
+      "id": 3,
+      "companyId": 2,
+      "name": "Lojas Americanas",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "date": "Tue Feb 22 2022",
+      "time": "18:09:57 GMT-0300",
+      "city": "Rio de Janeiro",
+      "state": "Rio de Janeiro"
+    },
+    {
+      "id": 4,
+      "companyId": 4,
+      "name": "Amigos do bem",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "date": "Tue Feb 22 2022",
+      "time": "18:09:57 GMT-0300",
+      "city": "Sao Paulo",
+      "state": "Sao Paulo"
+    },
+    {
+      "id": 5,
+      "companyId": 1,
+      "name": "Magazine Luizas",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "date": "Tue Feb 22 2022",
+      "time": "18:09:57 GMT-0300",
+      "city": "Campinas",
+      "state": "Sao Paulo"
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Magazine Luiza",
+      "city": "Campinas",
+      "state": "Sao Paulo",
+      "image": "https://s2.glbimg.com/a_bHjP2SoUlzG85yqDsQpMZ79IQ=/0x0:658x645/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/l/G/tHGm32QjiJAc6g3NMzOg/site-magazine-luiza-reprodu-o-facebook.png",
+      "background": "https://tm.ibxk.com.br/2021/04/14/14102931597147.jpg?ims=1200x675"
+    },
+    {
+      "id": 2,
+      "name": "Lojas Americanas",
+      "city": "Campinas",
+      "state": "Sao Paulo",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAwFBMVEX4ADL////4ACf5ACD3AC/3fI31aHz0oa33MlP8///2e4n5AC754ef87/D2ACP4pLP1ADT76u74ACv2ABnyAC7xACL2ABb27/DzLUr1ADL7AC/0ABz1///7+fr0maf2dIX+7vDzXHXzVm/zg5L0srz2xMz41N383ef4vsbuRFz0Hz3419r2rrLykZ/23+HzjJfsSmH0PVr1IUf3yNHviJz2AAr3r7zxtMP2cof0f5Tyy8zzytbw4uXyZXzyUmbyjZ97Lgl1AAAGK0lEQVR4nO2dbVfiOBSASxIpsZitaaFALQxgkbei4Djjjo7+/381hZldd+EGCtMzSTj3+YRYz8ljQpPce1McB0EQBEEQBEEQBEEQBEEQBEEQBEGQPw0pE90yEO3qRXn0mG4dAHZdKY+EtHX77MLqJRp+Erp1ADw0PIYrNNQBGqIhGuoHDdEQDfWDhmiIhvpBQ/sNS45i6NaB6FdLxNNtAyFLDCZK3TIIgiAIgiDIWdLO9x4bOqzT6TCn47QNTIGejieJoFQQGbZ93w+lJDTOfzIxk30CjFDWGgxv01H9qlLhm93f9d3L2H2eTImQnuWaHm0sh2k94Zxv73Hzd6LZvNqiwsitYDFk0MoWyf7NfDS6rwVGbugPI58e0srNbudtdyXno+dY2DdYmVi+FA/LRNmUWjZYpe8e6r3/d2WS+VaNVbFcHOO3cXwdUN3NLk5cTY4VXH8i3wNLPo2MXh7vt3F0A91tLwZ5Pk0wp2vFQCUPJwtWeNXEaP42jehkwXzamJr/UWzOj5omtjvRbegWOIR8+w2/teLK9Jm/MfpNQ9fwmw3p/5Zfbhg1dTvsRzzuaTyvXNfv6p82ryvKrp4YnXfyaoqGc37t9ldhvtcnRE6Xw9tIeT/qGj1hkAxsN+ezfpNK5rD1XMCYR2gwSBWOj0YvbMQMNuw2djYOstmDDa9iHS0vCPPhRn8Gl9QxrJisDJ70ZRUed004ckjh29LS4BlRuFCvJKpJnID/EN43+GYagIGLuerm6K3AJWzP4M1+ALWYv6n6hIElOPzCXEMWAoOUvypvHJ0GVEbFL8019FrASoXfKu/+rA32ocmGyyTaIRkqG+xNoHCxyYbOOu+yg/py+gUQNNvw56qs6LVBFV4AGW1YHEae7uGF6RkYsg6hwn9WlaNaa5iPX7bJlMas9fY5VYer7DT0ZG4W+63BZTafLa6UdjYatqWIm3Jy0f0yurpKNlv7A7E4mwzzna4IH7Kv10AK2H7DdseLnUl3tGlzcT2LDGVj4tYPZoDtNSSiB8czzsTQCwaL00P7FhiK6fhUOzsM44E6FnoWhrR3U9jFxnVpOxgW7L91Ic3XT/YZ0ueiI5TfjJcN2/b4+RJtsifl8tF7FZ4suq2Y+NYZOrJAGU3y+s3ttWLqOcw+QwpGhH+J5Z+7ZDR+79ecmJJNjNg+Q7ZSC3KeZpOppIJ0/o102GcY3Kr0knE/DsR2UbB1ht5UUUvK56sAintbZ0guYL9oEChSM7YZKpJl0VLVYja1bMZfgUed+YMyL++1wEyOsYbyDRScq9Py6/WBTYbib9Cwpj45AqeMDTaE5gpef9rzF5ldhvQb1N7bPbUjDfAvzDWUI6i9rrr+h03BwLfBhjOovXsqnBS1xOYahndH9mEMlzGaawg/3fOLspiSPEDXm2xIoD7kL6piSkZfbTNsgHeaRFHVzGIwxb3GWMMYWpZy3iNQ5tsTXeVe0lhDCu8OX8NdwzZpq4PG5lYMkSHc4tvm9t6JPH2P9kQDjDUMVVX6qU8/9r9MCtnfm7Ux19CZXisaHg2n64PNkhARsElW3x9w5OoSI92At5qfjY7S+16///0i+1Y/HG78bGyht4CjGBvFn5FwXiBeXOHvxhoyf3+RRUF4Zqxhm6rnOJUN9N6epax2/COPrXEXiD/y1OBzQfTyuOPNvRYUYV2Y/AyCOD2mcKZKfcgwqRl8HMELF4X9oomAC8MrmcHD1JEtKMgLMVsR1RSaPJisSFqFCk34PFyv5KgL/jbpmXz2SYYvhxWv3ui6HNORPXjC4Cm45zIEFmQ3+xee3A1/LT2ZVFxp5BNaP6C1VL06y/un9jEGm4/whZHZhg6LB6kilxiNJ/89yCYHf4F0DR6kG/JdYC2brUtm/umizevo8WK19ZQWT8BoavhRCLGquundr76MRuP7iR+Lju5mlUrek0GzGcgwbDSbTbqTxz8X/PVj2pyzejobgiAIgiAIgmikTWh5GPk8U/bulkf3mHPvfwqvzG/SMTJOc/7fhoSGaIiG+kFDNERD/aAhGqKhftAQDdFQP+dv2Cn1+4BNNHRqZaJbBoSViMEVpgiCIAiCIAiCIAiCIAiCIAiCIAiCIIhGfgDeUoZEXUgLlAAAAABJRU5ErkJggg==",
+      "background": "https://trademap.com.br/wp-content/uploads/2021/02/Americanas-Divulgac%CC%A7a%CC%83o.png"
+    },
+    {
+      "id": 3,
+      "name": "Carrefour",
+      "city": "Curitiba",
+      "state": "Parana",
+      "image": "https://trademap.com.br/wp-content/uploads/2021/02/Americanas-Divulgac%CC%A7a%CC%83o.png",
+      "background": "https://jornaltribuna.com.br/wp-content/uploads/2022/10/a6c40fc8-quemsomos_mobile.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Amigos do bem",
+      "city": "Sao Paulo",
+      "state": "Sao Paulo",
+      "image": "https://www.apple.com/ac/structured-data/images/open_graph_logo.png?201809211351",
+      "background": "https://f.i.uol.com.br/fotografia/2022/09/07/16625631936318b3796fc55_1662563193_3x2_md.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Nuvem Feliz",
+      "city": "Sao Paulo",
+      "state": "Sao Paulo",
+      "image": "https://rlv.zcache.com.br/adesivo_nuvem_feliz-ra76b7d8d0279492bb262bbc186a9d97b_08m34_736.jpg?rlvnet=1",
+      "background": "https://images.pexels.com/photos/2114014/pexels-photo-2114014.jpeg?cs=srgb&dl=pexels-magda-ehlers-2114014.jpg&fm=jpg"
+    }
+  ]
+}
