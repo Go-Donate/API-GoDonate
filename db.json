@@ -5,6 +5,7 @@
       "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
       "name": "Kenzinho",
       "id": 1,
+      "isCompany": true,
       "city": "Curitiba",
       "state": "Parana",
       "background": "https://kenzie.com.br/eventos/thumb.png",
@@ -66,14 +67,17 @@
   "companies": [
     {
       "id": 1,
+      "userId": 1,
       "name": "Magazine Luiza",
       "city": "Campinas",
       "state": "Sao Paulo",
       "image": "https://s2.glbimg.com/a_bHjP2SoUlzG85yqDsQpMZ79IQ=/0x0:658x645/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/l/G/tHGm32QjiJAc6g3NMzOg/site-magazine-luiza-reprodu-o-facebook.png",
       "background": "https://tm.ibxk.com.br/2021/04/14/14102931597147.jpg?ims=1200x675"
+      
     },
     {
       "id": 2,
+      "userId": 2,
       "name": "Lojas Americanas",
       "city": "Campinas",
       "state": "Sao Paulo",
@@ -82,6 +86,7 @@
     },
     {
       "id": 3,
+      "userId": 2,
       "name": "Carrefour",
       "city": "Curitiba",
       "state": "Parana",
@@ -90,6 +95,7 @@
     },
     {
       "id": 4,
+      "userId": 2,
       "name": "Amigos do bem",
       "city": "Sao Paulo",
       "state": "Sao Paulo",
@@ -98,6 +104,7 @@
     },
     {
       "id": 5,
+      "userId": 2,
       "name": "Nuvem Feliz",
       "city": "Sao Paulo",
       "state": "Sao Paulo",
