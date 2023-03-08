@@ -9,10 +9,10 @@ const router = jsonServer.router("db.json")
 app.db = router.db
 
 const rules = auth.rewriter({
-  users: 600,
+  users: 640,
   public: 644,
   fundraising: 640,
-  donation: 660
+  donation: 640
 })
 
 app.use(cors())
