@@ -1,6 +1,7 @@
 {
   "users": [
     {
+      "uuid": "667fcc60-4519-4767-a24d-8af1b7923a91",
       "email": "kenzinho@mail.com",
       "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
       "name": "Kenzinho",
@@ -139,12 +140,14 @@
   ],
   "donation": [
     {
+      "uuid": "667fcc60-4519-4767-a24d-8af1b7923a91",
       "id": 1,
       "userId": 1,
       "role": "Assistente de cozinha",
       "participated": "false"
     },
     {
+      "uuid": "667fcc60-4519-4767-a24d-8af1b7923a91",
       "id": 2,
       "userId": 2,
       "role": "Programador",
