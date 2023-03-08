@@ -6,11 +6,13 @@ const port = process.env.PORT || 3001
 const app = jsonServer.create()
 const router = jsonServer.router("db.json")
 
-app.db = router.db;
+app.db = router.db
 
 const rules = auth.rewriter({
   users: 600,
-  public: 644
+  public: 644,
+  fundraising: 640,
+  donation: 660
 })
 
 app.use(cors())

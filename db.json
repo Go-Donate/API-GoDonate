@@ -64,52 +64,91 @@
       "state": "Sao Paulo"
     }
   ],
-  "companies": [
+  "fundraising": [
+    {
+      "id": 1,
+      "companyId": 3,
+      "name": "Carrefour",
+      "title": "Pascoa Feliz",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "date": "Thu Feb 17 2022",
+      "final_date": "Mon Feb 21 2022",
+      "open_time": "18:11:57 GMT-0300",
+      "close_time": "22:11:57 GMT-0300",
+      "address": "R. Alberto 19 - Centro",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "phone": "3884-9834"
+    },
+    {
+      "id": 2,
+      "companyId": 5,
+      "name": "Nuvem Feliz",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "date": "Wed Feb 20 2022",
+      "final_date": "Mon Feb 21 2022",
+      "open_time": "18:11:57 GMT-0300",
+      "close_time": "22:11:57 GMT-0300",
+      "address": "R. Alberto 19 - Centro",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "phone": "3884-9834"
+    },
+    {
+      "id": 3,
+      "companyId": 2,
+      "name": "Lojas Americanas",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "date": "Tue Feb 22 2022",
+      "final_date": "Mon Feb 21 2022",
+      "open_time": "18:11:57 GMT-0300",
+      "close_time": "22:11:57 GMT-0300",
+      "address": "R. Alberto 19 - Centro",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "phone": "3884-9834"
+    },
+    {
+      "id": 4,
+      "companyId": 4,
+      "name": "Amigos do bem",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "date": "Tue Feb 22 2022",
+      "final_date": "Mon Feb 21 2022",
+      "open_time": "18:11:57 GMT-0300",
+      "close_time": "22:11:57 GMT-0300",
+      "address": "R. Alberto 19 - Centro",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "phone": "3884-9834"
+    },
+    {
+      "id": 5,
+      "companyId": 1,
+      "name": "Magazine Luizas",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "date": "Tue Feb 22 2022",
+      "final_date": "Mon Feb 21 2022",
+      "open_time": "18:11:57 GMT-0300",
+      "close_time": "22:11:57 GMT-0300",
+      "address": "R. Alberto 19 - Centro",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "phone": "3884-9834"
+    }
+  ],
+  "donation": [
     {
       "id": 1,
       "userId": 1,
-      "name": "Magazine Luiza",
-      "city": "Campinas",
-      "state": "Sao Paulo",
-      "image": "https://s2.glbimg.com/a_bHjP2SoUlzG85yqDsQpMZ79IQ=/0x0:658x645/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/l/G/tHGm32QjiJAc6g3NMzOg/site-magazine-luiza-reprodu-o-facebook.png",
-      "background": "https://tm.ibxk.com.br/2021/04/14/14102931597147.jpg?ims=1200x675"
-      
+      "role": "Assistente de cozinha",
+      "participated": "false"
     },
     {
       "id": 2,
       "userId": 2,
-      "name": "Lojas Americanas",
-      "city": "Campinas",
-      "state": "Sao Paulo",
-      "image": "https://s2.glbimg.com/N0imK7OZPrjJq54e6MW_lZNU_xk=/0x20:650x397/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/A/g/cQ3xPVTaee8zHQ4549fw/lojasamericanas.jpg",
-      "background": "https://trademap.com.br/wp-content/uploads/2021/02/Americanas-Divulgac%CC%A7a%CC%83o.png"
-    },
-    {
-      "id": 3,
-      "userId": 2,
-      "name": "Carrefour",
-      "city": "Curitiba",
-      "state": "Parana",
-      "image": "https://trademap.com.br/wp-content/uploads/2021/02/Americanas-Divulgac%CC%A7a%CC%83o.png",
-      "background": "https://jornaltribuna.com.br/wp-content/uploads/2022/10/a6c40fc8-quemsomos_mobile.jpg"
-    },
-    {
-      "id": 4,
-      "userId": 2,
-      "name": "Amigos do bem",
-      "city": "Sao Paulo",
-      "state": "Sao Paulo",
-      "image": "https://www.apple.com/ac/structured-data/images/open_graph_logo.png?201809211351",
-      "background": "https://f.i.uol.com.br/fotografia/2022/09/07/16625631936318b3796fc55_1662563193_3x2_md.jpg"
-    },
-    {
-      "id": 5,
-      "userId": 2,
-      "name": "Nuvem Feliz",
-      "city": "Sao Paulo",
-      "state": "Sao Paulo",
-      "image": "https://rlv.zcache.com.br/adesivo_nuvem_feliz-ra76b7d8d0279492bb262bbc186a9d97b_08m34_736.jpg?rlvnet=1",
-      "background": "https://images.pexels.com/photos/2114014/pexels-photo-2114014.jpeg?cs=srgb&dl=pexels-magda-ehlers-2114014.jpg&fm=jpg"
+      "role": "Programador",
+      "participated": "true"
     }
   ]
 }
