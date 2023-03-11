@@ -22,39 +22,7 @@
       "city": "Maranhão",
       "image": "https://static.wikia.nocookie.net/marvel/images/b/b6/StarLord-Guardians2-Profile.jpeg/revision/latest?cb=20170406202240&path-prefix=pt-br",
       "background": "https://t.ctcdn.com.br/l3Wzr32EvA0p74U3N-MH-L2VH7I=/400x400/smart/filters:format(webp)/i490060.jpeg",
-      "id": 2,
-      "participation": [
-        {
-          "id": 2,
-          "userId": 1,
-          "name": "Nuvem Feliz",
-          "title": "Bom Amigo",
-          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-          "date": "2023-03-16T03:00:00.000Z",
-          "final_date": "2023-03-18T03:00:00.000Z",
-          "open_time": "08:00",
-          "close_time": "20:00",
-          "address": "R. Alberto 19 - Centro",
-          "city": "Curitiba",
-          "state": "Paraná",
-          "phone": "3884-9834"
-        },
-        {
-          "id": 4,
-          "userId": 1,
-          "name": "Nuvem Feliz",
-          "title": "Felecidade solene",
-          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-          "date": "2023-03-16T03:00:00.000Z",
-          "final_date": "2023-03-20T03:00:00.000Z",
-          "open_time": "08:00",
-          "close_time": "17:00",
-          "address": "R. Alberto 19 - Centro",
-          "city": "Curitiba",
-          "state": "Paraná",
-          "phone": "3884-9834"
-        }
-      ]
+      "id": 2
     }
   ],
   "post": [
@@ -124,7 +92,7 @@
       "state": "Sao Paulo"
     }
   ],
-  "fundraising": [
+  "fundraisings": [
     {
       "id": 1,
       "userId": 1,
@@ -203,17 +171,15 @@
   ],
   "donation": [
     {
-      "uuidCompany": "667fcc60-4519-4767-a24d-8af1b7923a91",
-      "uuidUser": "8495c9c6-428c-450f-9f66-b7a1072669ab",
       "id": 1,
+      "userId": 2,
       "fundraisingId": 1,
       "role": "Assistente de cozinha",
       "participated": false
     },
     {
-      "uuidCompany": "667fcc60-4519-4767-a24d-8af1b7923a91",
-      "uuidUser": "8495c9c6-428c-450f-9f66-b7a1072669ab",
       "id": 2,
+      "userId": 2,
       "fundraisingId": 2,
       "role": "Programador",
       "participated": true
