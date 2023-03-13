@@ -12,7 +12,7 @@ const rules = auth.rewriter({
   users: 640,
   public: 644,
   fundraising: 640,
-  donation: 640
+  donation: 660
 })
 
 app.use(cors())
